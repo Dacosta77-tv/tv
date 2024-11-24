@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVI.png",TVI
-#KODIPROP:inputstream=inputstream.adaptive
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyNCA4OjY6NTAgUE0maGFzaF92YWx1ZT13TEJBamZVSEtmTWluREExVEE0Z1VRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTRlOTU4NjQtOWZmNy00Yjk0LThjYzgtYmExZmUxNmJhNjY2/
-
 #EXTINF:-1 group-title="Notícias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
