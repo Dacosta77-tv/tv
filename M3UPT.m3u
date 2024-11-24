@@ -2,7 +2,7 @@
 
 # 📺 PORTUGAL
 
-#EXTINF:-1 group-title="Generalista" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTP1.png",RTP 1
+#EXTINF:-1 group-title="Generalista" tvg-id="RTP1.pt" tvg-country="Portugal" tvg-language="Português" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
