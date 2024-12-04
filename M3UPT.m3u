@@ -28,26 +28,30 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #https://sicnot.live.impresa.pt/sicnot.m3u8
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 group-title="Notícias" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/CNNPORTUGAL.png",CNN Portugal
+#EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/CNNPORTUGAL.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyNCA4OjY6NTAgUE0maGFzaF92YWx1ZT1wRG80RzZWSGtaNjFKRXB3QmQvcCtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWVlMzhkNGMtNjIyOC00OTBjLTk2YzQtMTI3YjdjNzUyN2Y1/
 
-#EXTINF:-1 group-title="Notícias" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/EURONEWS.png",Euronews PT
+#EXTINF:-1 group-title="Portugal" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/EURONEWS.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
 
-#EXTINF:-1 group-title="Notícias" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/ARTV.png",ARTV
+#EXTINF:-1 group-title="Portugal" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/ARTV.png",ARTV
 #KODIPROP:inputstream=inputstream.adaptive
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes e Séries" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPMEMORIA.png",RTP Memória
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPMEMORIA.png",RTP Memória
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPACORES.png",RTP Açores
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPACORES.png",RTP Açores
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPMADEIRA.png",RTP Madeira
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPMADEIRA.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPAFRICA.png",RTP África
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
