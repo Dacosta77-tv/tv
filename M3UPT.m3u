@@ -67,3 +67,7 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 #EXTINF:-1 group-title="Portugal" tvg-id="VPlusTVI.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVIFICCAO.png",VPlusTVI
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVIREALITY.png",TVI Reality
+#KODIPROP:inputstream=inputstream.adaptive
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
