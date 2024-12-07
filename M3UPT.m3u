@@ -84,3 +84,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
+#EXTINF:-1 group-title="Portugal" tvg-id="PortoCanal.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/PORTOCANAL.png",Porto Canal
+#KODIPROP:inputstream=inputstream.adaptive
+https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
+
