@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV-camara.png",TV Câmara
-#KODIPROP:inputstream=inputstream.adaptive
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="CanalFutura.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png",Canal Futura
 #KODIPROP:inputstream=inputstream.adaptive
 https://tv.unisc.br/hls/test.m3u8
