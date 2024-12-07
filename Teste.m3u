@@ -1,21 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="CanalFutura.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png",Canal Futura
-#KODIPROP:inputstream=inputstream.adaptive
-https://tv.unisc.br/hls/test.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png",AgroBrasil TV
-#KODIPROP:inputstream=inputstream.adaptive
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
-#KODIPROP:inputstream=inputstream.adaptive
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (PT)
-#KODIPROP:inputstream=inputstream.adaptive
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (CN)
 #KODIPROP:inputstream=inputstream.adaptive
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
@@ -17421,4 +17405,7 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/186101
 #EXTINF:0 tvg-id="ext" group-title="12127",Jazz Radio : Nouveautes Jazz
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/186103
 
+#EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png",AgroBrasil TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
 
