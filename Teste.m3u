@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="PBS America" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PBS_America_logo.png",PBS America
-#KODIPROP:inputstream=inputstream.adaptive
-#https://pbs-samsunguk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="TV",Rakuten Documentaries
 #KODIPROP:inputstream=inputstream.adaptive
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
