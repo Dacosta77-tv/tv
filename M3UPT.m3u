@@ -90,6 +90,12 @@ https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd1
 #KODIPROP:inputstream=inputstream.adaptive
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
+# 📺 BRASIL
+
+#EXTINF:-1 group-title="Brasil" tvg-id="" tvg-country="Brasil" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/BRAZITV.png",BraziTV
+#KODIPROP:inputstream=inputstream.adaptive
+https://cbtvnow.com:5866/hls/livest2024.m3u8
+
 # 📺 CANADÁ 
 
 #EXTINF:-1 group-title="Canadá" tvg-id="Love Nature TV" tvg-country="Canadá" tvg-language="Inglês" tgv-type="Natureza" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/LOVENATURETV.png",Love Nature
