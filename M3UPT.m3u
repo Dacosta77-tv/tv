@@ -78,6 +78,10 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
+#EXTINF:-1 group-title="Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Português" tgv-type="Regional" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TDMMACAU.png",TDM Macau
+#KODIPROP:inputstream=inputstream.adaptive
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
 #EXTINF:-1 group-title="Portugal" tvg-id="PortoCanal.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/PORTOCANAL.png",Porto Canal
 #KODIPROP:inputstream=inputstream.adaptive
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
