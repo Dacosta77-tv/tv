@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png",MyTime Movie Network (BR)
-#KODIPROP:inputstream=inputstream.adaptive
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="MovieSphere" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg",MovieSphere
 #KODIPROP:inputstream=inputstream.adaptive
 #https://moviesphere-plex.amagi.tv/playlist.m3u8
