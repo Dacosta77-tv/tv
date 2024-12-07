@@ -96,3 +96,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
+# 📺 ESPANHA
+#EXTINF:-1 group-title="Espanha" tvg-id="Rakuten.tv" tvg-country="Espanha" tvg-language="Português" tgv-type="Documenário" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RAKUTEN.png",Rakuten 
+#KODIPROP:inputstream=inputstream.adaptive
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+
