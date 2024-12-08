@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png",CGTN
-#KODIPROP:inputstream=inputstream.adaptive
-https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png",CGTN Español
 #KODIPROP:inputstream=inputstream.adaptive
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
