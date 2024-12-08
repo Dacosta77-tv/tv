@@ -37,6 +37,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
+#EXTINF:-1 group-title="Generalista" tvg-id="PortoCanal.pt" tvg-logo="",Porto Canal
+#KODIPROP:inputstream=inputstream.adaptive
+https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
+
 #EXTINF:-1 group-title="Generalista" tvg-id="" tvg-logo="",TDM Macau
 #KODIPROP:inputstream=inputstream.adaptive
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
@@ -68,10 +72,6 @@ https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Informação" tvg-id="ARTV.pt" tvg-logo="",ARTV
 #KODIPROP:inputstream=inputstream.adaptive
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
-
-#EXTINF:-1 group-title="Generalista" tvg-id="PortoCanal.pt" tvg-logo="",Porto Canal
-#KODIPROP:inputstream=inputstream.adaptive
-https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
 
 # 📺 FILMES/SÉRIES
 
