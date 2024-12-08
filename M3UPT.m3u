@@ -73,7 +73,7 @@ https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream=inputstream.adaptive
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
-#EXTINF:-1 group-title="Rússia" tvg-id="RT.ru" tvg-logo=""https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RUSSIATODAY.png",RT News
+#EXTINF:-1 group-title="Informação" tvg-id="RT.ru" tvg-logo="",RT News
 #KODIPROP:inputstream=inputstream.adaptive
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
