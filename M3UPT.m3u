@@ -114,6 +114,10 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 
 # 📺 IRÃO
 
+#EXTINF:-1 group-title="Irão" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/PRESSTV.png",Press TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.presstv.ir/hls/presstv.m3u8
+
 #EXTINF:-1 group-title="Irão" tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/HISPANTV.png",HispanTV
 #KODIPROP:inputstream=inputstream.adaptive
 https://live.presstv.ir/hls/hispantv.m3u8
