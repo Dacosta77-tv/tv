@@ -1,16 +1,16 @@
 #EXTM3U 
 
-# 📺 PORTUGAL
+# 📺 GENERALISTA
 
-#EXTINF:-1 group-title="Generalista" tvg-id="RTP1.pt" tvg-logo="",RTP 1
+#EXTINF:-1 group-title="" tvg-id="RTP1.pt" tvg-logo="",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Generalista" tvg-id="RTP2.pt" tvg-logo="",RTP 2
+#EXTINF:-1 group-title="" tvg-id="RTP2.pt" tvg-logo="",RTP 2
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Generalista" tvg-id="SIC.pt" tvg-logo="",SIC
+#EXTINF:-1 group-title="" tvg-id="SIC.pt" tvg-logo="",SIC
 #KODIPROP:inputstream=inputstream.adaptive
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
