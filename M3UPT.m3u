@@ -83,6 +83,9 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 # 📺 FILMES/SÉRIES
 
+#EXTINF:-1 group-title="Filmes/Séries" tvg-id="hollywood.pt" tvg-logo="",Hollywood
+http://hdlocal.de:8080/2630888/426LL13TCU/7212
+
 #EXTINF:-1 group-title="Filmes/Séries" tvg-id="MyTime Movie Network" tvg-logo="",MyTime Movie Network
 #KODIPROP:inputstream=inputstream.adaptive
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -112,10 +115,15 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTINF:-1 group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="",Canal 11
 http://hdlocal.de:8080/2630888/426LL13TCU/265011182
 
+#EXTINF:-1 group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="",SportTV 1
+http://hdlocal.de:8080/2630888/426LL13TCU/5335
+
 # 📺 DOCUMENTÁRIOS
 
 #EXTINF:-1 group-title="Documentários" tvg-id="NatGeo.pt" tvg-logo="",Investigation Discovery
 http://hdlocal.de:8080/2630888/426LL13TCU/265011152
 
 ---------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="(PT) SIC  RADICAL FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/Sic_radical.png/revision/latest?cb=20110703130733" group-title="BOUQUET  PORTUGAL",(PT) SIC  RADICAL FHD
+http://hdlocal.de:8080/2630888/426LL13TCU/5339
 
