@@ -106,6 +106,12 @@ https://cbtvnow.com:5866/hls/livest2024.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
+# 📺 CHINA
+
+#EXTINF:-1 group-title="China" tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/CGTN.png",CGTN
+#KODIPROP:inputstream=inputstream.adaptive
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
 # 📺 ESPANHA
 
 #EXTINF:-1 group-title="Espanha" tvg-id="Rakuten.tv" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RAKUTEN.png",Rakuten 
