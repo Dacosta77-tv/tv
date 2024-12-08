@@ -128,6 +128,12 @@ https://live.presstv.ir/hls/presstv.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://live.presstv.ir/hls/hispantv.m3u8
 
+# 📺 RÚSSIA
+
+#EXTINF:-1 group-title="Rússia" tvg-id="RT.ru" tvg-logo=""https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RUSSIATODAY.png",RT News
+#KODIPROP:inputstream=inputstream.adaptive
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
+
 # 📺 VENEZUELA
 
 #EXTINF:-1 group-title="Venezuela" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TELESUR.png",teleSUR
