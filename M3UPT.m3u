@@ -128,6 +128,10 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1 group-title="EUA" tvg-id="CBSN" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/CBCNEWS.png",CBS News
+#KODIPROP:inputstream=inputstream.adaptive
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
 #EXTINF:-1 group-title="EUA" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/FOXNOW.png",Fox Now
 #KODIPROP:inputstream=inputstream.adaptive
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
