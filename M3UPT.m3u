@@ -24,106 +24,104 @@ https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream=inputstream.adaptive
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
+#EXTINF:-1 group-title="Informação" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TELESUR.png",teleSUR
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
 # 📺 GENERALISTA
 
 #EXTINF:-1 group-title="Generalista" tvg-id="RTP1.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Generalista" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Generalista" tvg-id="SIC.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Generalista" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/SIC.png",SIC
+#EXTINF:-1 group-title="Generalista" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/SIC.png",SIC
 #KODIPROP:inputstream=inputstream.adaptive
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1 group-title="Generalista" tvg-id="TVI.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Generalista" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVI.png",TVI
+#EXTINF:-1 group-title="Generalista" tvg-id="TVI.pt"  tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyNCA4OjY6NTAgUE0maGFzaF92YWx1ZT13TEJBamZVSEtmTWluREExVEE0Z1VRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTRlOTU4NjQtOWZmNy00Yjk0LThjYzgtYmExZmUxNmJhNjY2/
 
 # 📺 DOCUMENTÁRIOS
 
-#EXTINF:-1 group-title="Documentários" tvg-id="RTP2.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Cultura" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTP2.png",RTP 2
+#EXTINF:-1 group-title="Documentários" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
-------------------------------------------
+#EXTINF:-1 group-title="Documentários" tvg-id="Love Nature TV" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/LOVENATURETV.png",Love Nature
+#KODIPROP:inputstream=inputstream.adaptive
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
+#EXTINF:-1 group-title="Documentários" tvg-id="Rakuten.tv" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RAKUTEN.png",Rakuten 
+#KODIPROP:inputstream=inputstream.adaptive
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 
+# 📺 ENTRETENIMENTO
 
-
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPMemoria.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPMEMORIA.png",RTP Memória
+#EXTINF:-1 group-title="Entretenimento" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPMEMORIA.png",RTP Memória
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPAcores.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Regional" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPACORES.png",RTP Açores
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPMadeira.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Regional" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPMADEIRA.png",RTP Madeira
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPAfrica.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Regional" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPAFRICA.png",RTP África
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPInternacional.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Regional" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPINTERNACIONAL.png",RTP Internacional
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="TVIAfrica.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Regional" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVIAFRICA.png",TVI África
-#KODIPROP:inputstream=inputstream.adaptive
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="VPlusTVI.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVIFICCAO.png",VPlusTVI
+#EXTINF:-1 group-title="Entretenimento" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVIFICCAO.png",VPlusTVI
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="TVIReality.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVIREALITY.png",TVI Reality
+#EXTINF:-1 group-title="Entretenimento" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVIREALITY.png",TVI Reality
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="SicReplay.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/SICREPLAY.png",SIC Replay
+#EXTINF:-1 group-title="Entretenimento" tvg-id="SicReplay.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/SICREPLAY.png",SIC Replay
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Português" tgv-type="Regional" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TDMMACAU.png",TDM Macau
-#KODIPROP:inputstream=inputstream.adaptive
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="PortoCanal.pt" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/PORTOCANAL.png",Porto Canal
-#KODIPROP:inputstream=inputstream.adaptive
-https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Português" tgv-type="Regional" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/FAMATV.png",Fama TV
-#KODIPROP:inputstream=inputstream.adaptive
-https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="MyTime Movie Network" tvg-country="Portugal" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/MYTIMEMOVIENETWORK.png",MyTime Movie Network
+#EXTINF:-1 group-title="Entretenimento" tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/MYTIMEMOVIENETWORK.png",MyTime Movie Network
 #KODIPROP:inputstream=inputstream.adaptive
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-# 📺 BRASIL
-
-#EXTINF:-1 group-title="Brasil" tvg-id="" tvg-country="Brasil" tvg-language="Português" tgv-type="Entertenimento" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/BRAZITV.png",BraziTV
+#EXTINF:-1 group-title="Entretenimento" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/BRAZITV.png",BraziTV
 #KODIPROP:inputstream=inputstream.adaptive
 https://cbtvnow.com:5866/hls/livest2024.m3u8
 
-# 📺 CANADÁ 
+# 📺 REGIONAL
 
-#EXTINF:-1 group-title="Canadá" tvg-id="Love Nature TV" tvg-country="Canadá" tvg-language="Inglês" tgv-type="Natureza" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/LOVENATURETV.png",Love Nature
+#EXTINF:-1 group-title="Regional" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/PORTOCANAL.png",Porto Canal
 #KODIPROP:inputstream=inputstream.adaptive
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
 
-# 📺 ESPANHA
+#EXTINF:-1 group-title="Regional" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPACORES.png",RTP Açores
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Espanha" tvg-id="Rakuten.tv" tvg-country="Espanha" tvg-language="Português" tgv-type="Documenário" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RAKUTEN.png",Rakuten 
+#EXTINF:-1 group-title="Regional" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPMADEIRA.png",RTP Madeira
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Regional" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPAFRICA.png",RTP África
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Regional" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RTPINTERNACIONAL.png",RTP Internacional
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Regional" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TVIAFRICA.png",TVI África
 #KODIPROP:inputstream=inputstream.adaptive
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
+#EXTINF:-1 group-title="Regional" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TDMMACAU.png",TDM Macau
+#KODIPROP:inputstream=inputstream.adaptive
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1 group-title="Regional" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/FAMATV.png",Fama TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
+
+------------------------------------------
+
 
 # 📺 VENEZUELA
 
-#EXTINF:-1 group-title="Venezuela" tvg-id="Telesur.ve" tvg-country="Espanha" tvg-language="Português" tgv-type="Documenário" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/TELESUR.png",teleSUR
-#KODIPROP:inputstream=inputstream.adaptive
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
 
