@@ -1,33 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png",CGTN Español
-#KODIPROP:inputstream=inputstream.adaptive
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png",CGTN Français
-#KODIPROP:inputstream=inputstream.adaptive
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png",CGTN Documentary
-#KODIPROP:inputstream=inputstream.adaptive
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="AlJazeera.qa" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera English
-#KODIPROP:inputstream=inputstream.adaptive
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
-#KODIPROP:inputstream=inputstream.adaptive
-https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="France24Espanol.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
-https://youtube.com/watch?v=XDJPzMznAjU
-
-#EXTINF:-1 group-title="TV" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Français
-https://youtube.com/watch?v=gxG3pdKvlIs
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Arabic
-https://youtube.com/watch?v=8BZpOolYLUA
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
 #KODIPROP:inputstream=inputstream.adaptive
