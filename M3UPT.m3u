@@ -130,6 +130,10 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 
 # 📺 FRANÇA
 
+#EXTINF:-1 group-title="França" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/FRANCE24.png",France 24
+#KODIPROP:inputstream=inputstream.adaptive
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
 # 📺 IRÃO
 
 #EXTINF:-1 group-title="Irão" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/PRESSTV.png",Press TV
