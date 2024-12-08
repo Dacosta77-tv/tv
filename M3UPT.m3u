@@ -112,6 +112,10 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #KODIPROP:inputstream=inputstream.adaptive
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
+#EXTINF:-1 group-title="China" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/CGTNDOCUMENTARY.png",CGTN Documentary
+#KODIPROP:inputstream=inputstream.adaptive
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+
 # 📺 ESPANHA
 
 #EXTINF:-1 group-title="Espanha" tvg-id="Rakuten.tv" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/RAKUTEN.png",Rakuten 
