@@ -93,7 +93,7 @@ https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlis
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 group-title="Entretenimento" tvg-id="SicReplay.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/refs/heads/main/Logos/SICREPLAY.png",SIC Replay
+#EXTINF:-1 group-title="Entretenimento" tvg-id="SicReplay.pt" tvg-logo="",SIC Replay
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
