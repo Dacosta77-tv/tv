@@ -1,6 +1,6 @@
 #EXTM3U 
 
-# 📺 GENERALISTA
+# 📺 PORTUGAL
 
 #EXTINF:-1 group-title="Generalista" tvg-id="RTP1.pt" tvg-logo="",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
@@ -17,6 +17,20 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="Generalista" tvg-id="TVI.pt"  tvg-logo="",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNCA4OjIyOjM0IFBNJmhhc2hfdmFsdWU9bVQzd1c5TDVBYmd1cXVzTUpYemZ0Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQzOTAyZTAzLWNlM2UtNDZmNC1iNjQxLWQ0YTMzNTAwZjM0Yg==/
+
+#EXTINF:-1 group-title="Informação" tvg-id="RTP3.pt" tvg-logo="",RTP 3
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Informação" tvg-id="SICNoticias.pt" tvg-logo="",SIC Notícias
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://sic.pt/
+#https://sicnot.live.impresa.pt/sicnot.m3u8
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+#EXTINF:-1 group-title="Informação" tvg-id="CNNPortugal.pt" tvg-logo="",CNN Portugal
+#KODIPROP:inputstream=inputstream.adaptive
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyNCA4OjY6NTAgUE0maGFzaF92YWx1ZT1wRG80RzZWSGtaNjFKRXB3QmQvcCtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWVlMzhkNGMtNjIyOC00OTBjLTk2YzQtMTI3YjdjNzUyN2Y1/
 
 #EXTINF:-1 group-title="Generalista" tvg-id="RTPAcores.pt" tvg-logo="",RTP Açores
 #EXTVLCOPT:http-user-agent=Firefox
@@ -51,265 +65,5 @@ https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
 
 # 📺 INFORMAÇÃO
-
-#EXTINF:-1 group-title="Informação" tvg-id="RTP3.pt" tvg-logo="",RTP 3
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Informação" tvg-id="SICNoticias.pt" tvg-logo="",SIC Notícias
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://sic.pt/
-#https://sicnot.live.impresa.pt/sicnot.m3u8
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-
-#EXTINF:-1 group-title="Informação" tvg-id="CNNPortugal.pt" tvg-logo="",CNN Portugal
-#KODIPROP:inputstream=inputstream.adaptive
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyNCA4OjY6NTAgUE0maGFzaF92YWx1ZT1wRG80RzZWSGtaNjFKRXB3QmQvcCtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWVlMzhkNGMtNjIyOC00OTBjLTk2YzQtMTI3YjdjNzUyN2Y1/
-
-#EXTINF:-1 group-title="Informação" tvg-id="EuronewsPortuguese.fr" tvg-logo="",Euronews
-#KODIPROP:inputstream=inputstream.adaptive
-https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
-
-#EXTINF:-1 group-title="Informação" tvg-id="ARTV.pt" tvg-logo="",ARTV
-#KODIPROP:inputstream=inputstream.adaptive
-https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
-
-#EXTINF:-1 group-title="Informação" tvg-id="RT.ru" tvg-logo="",RT News
-#KODIPROP:inputstream=inputstream.adaptive
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="Informação" tvg-id="Telesur.ve" tvg-logo="",teleSUR
-#KODIPROP:inputstream=inputstream.adaptive
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-
-# 📺 FILMES/SÉRIES
-
-#EXTINF:-1 group-title="Filmes/Séries" tvg-id="MyTime Movie Network" tvg-logo="",MyTime Movie Network
-#KODIPROP:inputstream=inputstream.adaptive
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes/Séries" tvg-id="AMC.pt" tvg-logo="",AMC
-http://hdlocal.de:8080/2630888/426LL13TCU/1728
-
-# 📺 ENTRETENIMENTO
-
-#EXTINF:-1 group-title="Entretenimento" tvg-id="RTPMemoria.pt" tvg-logo="",RTP Memória
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Entretenimento" tvg-id="VPlusTVI.pt" tvg-logo="",VPlusTVI
-#KODIPROP:inputstream=inputstream.adaptive
-https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
-
-#EXTINF:-1 group-title="Entretenimento" tvg-id="TVIReality.pt" tvg-logo="",TVI Reality
-#KODIPROP:inputstream=inputstream.adaptive
-https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-
-#EXTINF:-1 group-title="Entretenimento" tvg-id="SicReplay.pt" tvg-logo="",SIC Replay
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTVLCOPT:http-referrer=https://opto.sic.pt/
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-
-# 📺 DESPORTO
-
-#EXTINF:-1 group-title="Desporto" tvg-id="" tvg-logo="",Benfica TV
-http://hdlocal.de:8080/2630888/426LL13TCU/1670
-
-#EXTINF:-1 group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="",SportTV 1
-http://hdlocal.de:8080/2630888/426LL13TCU/1721
-
-#EXTINF:-1 group-title="Desporto" tvg-id="NBA.pt" tvg-logo="",NBA
-
-# 📺 DOCUMENTÁRIOS
-
-#EXTINF:-1 group-title="Documentários" tvg-id="NatGeo.pt" tvg-logo="",Investigation Discovery
-http://hdlocal.de:8080/2630888/426LL13TCU/265011152
-
----------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="",Canal 11
-http://hdlocal.de:8080/2630888/426LL13TCU/265011182
-
-#EXTINF:-1 group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="",SportTV 1
-http://hdlocal.de:8080/2630888/426LL13TCU/5335
-
-#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="(PT) SIC  RADICAL FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/Sic_radical.png/revision/latest?cb=20110703130733" group-title="BOUQUET  PORTUGAL",(PT) SIC  RADICAL FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/5339
-
-#EXTINF:-1 tvg-ID="SportTVplus.pt" tvg-name="(PT) SPORT TV+ FHD" tvg-logo="http://www.portaldeapoioaocliente.pt/wp-content/uploads/2018/10/sporttv.png" group-title="BOUQUET  PORTUGAL",(PT) SPORT TV+ FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/5340
-
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="(PT) SPORT TV 1 FHD" tvg-logo="data:image/png;base64,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" group-title="BOUQUET  PORTUGAL",(PT) SPORT TV 1 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/5341
-
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="(PT) SPORT TV 2 FHD" tvg-logo="data:image/png;base64,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" group-title="BOUQUET  PORTUGAL",(PT) SPORT TV 2 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/665020106
-
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="(PT) SPORT TV 3 FHD" tvg-logo="http://mystreans.com/imagens-lista/sptv3.png" group-title="BOUQUET  PORTUGAL",(PT) SPORT TV 3 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/5342
-
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="(PT) SPORT TV 4 FHD" tvg-logo="http://mystreans.com/imagens-lista/sptv4.png" group-title="BOUQUET  PORTUGAL",(PT) SPORT TV 4 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/5343
-
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="(PT) SPORT TV 5 FHD" tvg-logo="http://mystreans.com/imagens-lista/sptv5.png" group-title="BOUQUET  PORTUGAL",(PT) SPORT TV 5 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/5344
-
-#EXTINF:-1 tvg-ID="SportTV6.pt" tvg-name="(PT) SPORT TV 6 FHD" tvg-logo="data:image/png;base64,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" group-title="BOUQUET  PORTUGAL",(PT) SPORT TV 6 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/665035299
-
-#EXTINF:-1 tvg-ID="TraceToca.pt" tvg-name="|PT| BENFICA TV FHD" tvg-logo="data:image/png;base64,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" group-title="BOUQUET  PORTUGAL",|PT| BENFICA TV FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/4269
-
-#EXTINF:-1 group-title="Filmes/Séries" tvg-id="hollywood.pt" tvg-logo="",Hollywood
-http://hdlocal.de:8080/2630888/426LL13TCU/7212
-
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="|PT| SPORT TV 3 FHD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv3.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 3 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/4443
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="|PT| SPORT TV 4 FHD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv4.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 4 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/4441
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="|PT| SPORT TV 5 FHD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv5.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 5 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/4439
-#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="|PT| RTP 1  FHD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_32B_24_36_CE40000_0_0_0.png " group-title="BOUQUET  PORTUGAL",|PT| RTP 1  FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/4492
-#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="(PT) ELEVEN SPORTS 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 1 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/6510
-#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="(PT) ELEVEN SPORTS 2 FHD" tvg-logo="https://time4tv.stream/images/elevensp2.png" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 2 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/6509
-#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="(PT) ELEVEN SPORTS 3 FHD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/bd/Eleven_Sports_3_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/640?cb=20180403074418" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 3 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/6511
-#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="(PT) ELEVEN SPORTS 5 FHD" tvg-logo="http://taksiegra.pl/wp-content/uploads/2017/12/Eleven-Sports-new-600x300.png" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 5 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/6513
-#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="(PT) ELEVEN SPORTS 4 FHD" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 4 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/6512
-#EXTINF:-1 tvg-ID="elevensports6.pt" tvg-name="(PT) ELEVEN SPORTS 6 FHD" tvg-logo="http://taksiegra.pl/wp-content/uploads/2017/12/Eleven-Sports-new-600x300.png" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 6 FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/6729
-#EXTINF:-1 tvg-ID="" tvg-name="(PT) Eleven Sports 1 HD" tvg-logo="" group-title="BOUQUET  PORTUGAL",(PT) Eleven Sports 1 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/665039622
-#EXTINF:-1 tvg-ID="" tvg-name="(PT) Eleven Sports 2 HD" tvg-logo="" group-title="BOUQUET  PORTUGAL",(PT) Eleven Sports 2 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/665039623
-#EXTINF:-1 tvg-ID="" tvg-name="(PT) Eleven Sports 3 HD" tvg-logo="" group-title="BOUQUET  PORTUGAL",(PT) Eleven Sports 3 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/665039624
-#EXTINF:-1 tvg-ID="" tvg-name="(PT) Eleven Sports 4 HD" tvg-logo="" group-title="BOUQUET  PORTUGAL",(PT) Eleven Sports 4 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/665039625
-#EXTINF:-1 tvg-ID="" tvg-name="(PT) Eleven Sports 5 HD" tvg-logo="" group-title="BOUQUET  PORTUGAL",(PT) Eleven Sports 5 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/665039626
-#EXTINF:-1 tvg-ID="" tvg-name="(PT) Eleven Sports 6 HD" tvg-logo="" group-title="BOUQUET  PORTUGAL",(PT) Eleven Sports 6 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/665039627
-#EXTINF:-1 tvg-ID="" tvg-name="======== BOUQUET PORTUGAL========" tvg-logo="https://vignette.wikia.nocookie.net/mythology/images/1/12/Portugal.png/revision/latest?cb=20120704163845" group-title="BOUQUET  PORTUGAL",======== BOUQUET PORTUGAL========
-http://hdlocal.de:8080/2630888/426LL13TCU/2746
-#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="|PT| RTP 1 HD" tvg-logo=" http://x.pure-redirect.com/hispasat/1_0_1_32B_24_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| RTP 1 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1727
-#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="|PT| RTP 2 HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_32C_24_36_CE40000_0_0_0.png " group-title="BOUQUET  PORTUGAL",|PT| RTP 2 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1726
-#EXTINF:-1 tvg-ID="RTP3.pt" tvg-name="|PT| RTP 3 HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_65_24_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| RTP 3 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1715
-#EXTINF:-1 tvg-ID="TVI.pt" tvg-name="|PT| TVI HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_32E_24_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| TVI HD
-http://hdlocal.de:8080/2630888/426LL13TCU/4493
-#EXTINF:-1 tvg-ID="TVI.pt" tvg-name="|PT| TVI HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_32E_24_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| TVI HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1674
-#EXTINF:-1 tvg-ID="TVIReal.pt" tvg-name="|PT| TVI REALITY" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_E6_30_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| TVI REALITY
-http://hdlocal.de:8080/2630888/426LL13TCU/1672
-#EXTINF:-1 tvg-ID="TraceToca.pt" tvg-name="|PT| TVI FICCAO" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_E6_66_53_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| TVI FICCAO
-http://hdlocal.de:8080/2630888/426LL13TCU/2647
-#EXTINF:-1 tvg-ID="RTPMadeira.pt" tvg-name="|PT| RTP MADEIRA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpMadeira_positivo_horiz_RGB.png" group-title="BOUQUET  PORTUGAL",|PT| RTP MADEIRA
-http://hdlocal.de:8080/2630888/426LL13TCU/2321
-#EXTINF:-1 tvg-ID="RTPAcores.pt" tvg-name="|PT| RTP ACORES" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAc%CC%A7ores_positivo-1.jpg" group-title="BOUQUET  PORTUGAL",|PT| RTP ACORES
-http://hdlocal.de:8080/2630888/426LL13TCU/2649
-#EXTINF:-1 tvg-ID="rtpmemoria.pt" tvg-name="|PT| RTP MEMORIA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria00.jpg" group-title="BOUQUET  PORTUGAL",|PT| RTP MEMORIA
-http://hdlocal.de:8080/2630888/426LL13TCU/1683
-#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="|PT| RTP INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png" group-title="BOUQUET  PORTUGAL",|PT| RTP INTERNATIONAL
-http://hdlocal.de:8080/2630888/426LL13TCU/1658
-#EXTINF:-1 tvg-ID="RTPAcores.pt" tvg-name="|PT| RTP ACORESS" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAc%CC%A7ores_positivo-1.jpg" group-title="BOUQUET  PORTUGAL",|PT| RTP ACORESS
-http://hdlocal.de:8080/2630888/426LL13TCU/1685
-#EXTINF:-1 tvg-ID="RTPAfrica.pt" tvg-name="|PT| RTP AFRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/RTP_%C3%81frica_logo_2012.png" group-title="BOUQUET  PORTUGAL",|PT| RTP AFRICA
-http://hdlocal.de:8080/2630888/426LL13TCU/1684
-#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="|PT| SIC RADICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="BOUQUET  PORTUGAL",|PT| SIC RADICAL
-http://hdlocal.de:8080/2630888/426LL13TCU/1656
-#EXTINF:-1 tvg-ID="SicCaras.pt" tvg-name="|PT| SIC CARAS" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_51C_67_53_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| SIC CARAS
-http://hdlocal.de:8080/2630888/426LL13TCU/665030266
-#EXTINF:-1 tvg-ID="sicmulher.pt" tvg-name="|PT| SIC MULHER" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_1388_30_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| SIC MULHER
-http://hdlocal.de:8080/2630888/426LL13TCU/1682
-#EXTINF:-1 tvg-ID="sic.pt" tvg-name="|PT| SIC HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_32D_24_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| SIC HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1725
-#EXTINF:-1 tvg-ID="CanalQ.pt" tvg-name="|PT| CANAL Q" tvg-logo="https://pbs.twimg.com/profile_images/449620462612402176/sOyuVFfJ_400x400.png" group-title="BOUQUET  PORTUGAL",|PT| CANAL Q
-http://hdlocal.de:8080/2630888/426LL13TCU/1704
-#EXTINF:-1 tvg-ID="" tvg-name="======== NOTICIAS ========" tvg-logo="" group-title="BOUQUET  PORTUGAL",======== NOTICIAS ========
-http://hdlocal.de:8080/2630888/426LL13TCU/3562
-#EXTINF:-1 tvg-ID="TVI.pt" tvg-name="|PT| TVI FHD." tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/logos/medium_stv.jpg" group-title="BOUQUET  PORTUGAL",|PT| TVI FHD.
-http://hdlocal.de:8080/2630888/426LL13TCU/2334
-#EXTINF:-1 tvg-ID="CMTV.pt" tvg-name="|PT| CMTV HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_52F_67_53_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| CMTV HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1700
-#EXTINF:-1 tvg-ID="TVI24.pt" tvg-name="|PT| TVI 24 HD" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvi24.png" group-title="BOUQUET  PORTUGAL",|PT| TVI 24 HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1673
-#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="|PT| SIC NOTICIAS" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_321_24_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| SIC NOTICIAS
-http://hdlocal.de:8080/2630888/426LL13TCU/1657
-#EXTINF:-1 tvg-ID="E.uk" tvg-name="|PT| E! HD" tvg-logo="http://www.dvbxtreme.com/wp-content/uploads/2016/08/E.png" group-title="BOUQUET  PORTUGAL",|PT| E! HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1695
-#EXTINF:-1 tvg-ID="Euronews.pt" tvg-name="|PT| EURONEWS" tvg-logo="http://51.255.51.76:8082/euronews.png" group-title="BOUQUET  PORTUGAL",|PT| EURONEWS
-http://hdlocal.de:8080/2630888/426LL13TCU/2335
-#EXTINF:-1 tvg-ID="fox.pt" tvg-name="|PT| FOX NEWS" tvg-logo="data:image/png;base64,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" group-title="BOUQUET  PORTUGAL",|PT| FOX NEWS
-http://hdlocal.de:8080/2630888/426LL13TCU/2331
-#EXTINF:-1 tvg-ID="CNNPortugal.pt" tvg-name="|PT| CNN PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1024px-CNN_Portugal.svg.png" group-title="BOUQUET  PORTUGAL",|PT| CNN PORTUGAL
-http://hdlocal.de:8080/2630888/426LL13TCU/665035093
-#EXTINF:-1 tvg-ID="QuestRedPlus1.uk" tvg-name="|PT| REDBULL TV" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="BOUQUET  PORTUGAL",|PT| REDBULL TV
-http://hdlocal.de:8080/2630888/426LL13TCU/665024676
-#EXTINF:-1 tvg-ID="" tvg-name="======== INFANTIL ========" tvg-logo="" group-title="BOUQUET  PORTUGAL",======== INFANTIL ========
-http://hdlocal.de:8080/2630888/426LL13TCU/3568
-#EXTINF:-1 tvg-ID="SicK.pt" tvg-name="|PT| SIC KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/SIC_K_Portugal.png/150px-SIC_K_Portugal.png" group-title="BOUQUET  PORTUGAL",|PT| SIC KIDS
-http://hdlocal.de:8080/2630888/426LL13TCU/2329
-#EXTINF:-1 tvg-ID="BabyTV.pt" tvg-name="|PT| BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="BOUQUET  PORTUGAL",|PT| BABY TV
-http://hdlocal.de:8080/2630888/426LL13TCU/1708
-#EXTINF:-1 tvg-ID="DisneyJunior.pt" tvg-name="|PT| DISNEY JUNIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="BOUQUET  PORTUGAL",|PT| DISNEY JUNIOR HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1696
-#EXTINF:-1 tvg-ID="disneychannel.pt" tvg-name="|PT| DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Disney_Channel_2014.png/280px-Disney_Channel_2014.png" group-title="BOUQUET  PORTUGAL",|PT| DISNEY CHANNEL
-http://hdlocal.de:8080/2630888/426LL13TCU/1697
-#EXTINF:-1 tvg-ID="cartoon.pt" tvg-name="|PT| CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| CARTOON NETWORK
-http://hdlocal.de:8080/2630888/426LL13TCU/2330
-#EXTINF:-1 tvg-ID="PandaKIDS.pt" tvg-name="|PT| CANAL PANDA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Panda.png/revision/latest?cb=20141206112539" group-title="BOUQUET  PORTUGAL",|PT| CANAL PANDA
-http://hdlocal.de:8080/2630888/426LL13TCU/1705
-#EXTINF:-1 tvg-ID="Nickelodeon.pt" tvg-name="|PT| NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| NICKELODEON HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1688
-#EXTINF:-1 tvg-ID="canalpanda.pt" tvg-name="|PT| JIM JAM" tvg-logo="http://phazer.info/img/kanali-logo/jimjam-logo.png" group-title="BOUQUET  PORTUGAL",|PT| JIM JAM
-http://hdlocal.de:8080/2630888/426LL13TCU/1661
-#EXTINF:-1 tvg-ID="PandaBiggs.pt" tvg-name="|PT| BIGGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Panda_Biggs_logo.png/200px-Panda_Biggs_logo.png" group-title="BOUQUET  PORTUGAL",|PT| BIGGS
-http://hdlocal.de:8080/2630888/426LL13TCU/2328
-#EXTINF:-1 tvg-ID="" tvg-name="======== CINEMA & SERIES   ========" tvg-logo="" group-title="BOUQUET  PORTUGAL",======== CINEMA & SERIES   ========
-http://hdlocal.de:8080/2630888/426LL13TCU/3563
-#EXTINF:-1 tvg-ID="NOSStudios.pt" tvg-name="|PT| NOS STUDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/04/RTP_Informa%C3%A7%C3%A3o_logo_2011.png" group-title="BOUQUET  PORTUGAL",|PT| NOS STUDIOS
-http://hdlocal.de:8080/2630888/426LL13TCU/1659
-#EXTINF:-1 tvg-ID="TVCineTOP.pt" tvg-name="|PT| TV CINE TOP HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC1.png" group-title="BOUQUET  PORTUGAL",|PT| TV CINE TOP HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1716
-#EXTINF:-1 tvg-ID="TVCineEDITION.pt" tvg-name="|PT| TV CINE EDITION   HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC2.png" group-title="BOUQUET  PORTUGAL",|PT| TV CINE EDITION   HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1717
-#EXTINF:-1 tvg-ID="TVCineEMOTION.pt" tvg-name="|PT| TV CINE EMOTION HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC3.png" group-title="BOUQUET  PORTUGAL",|PT| TV CINE EMOTION HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1718
-#EXTINF:-1 tvg-ID="TVCineACTION.pt" tvg-name="|PT| TV CINE ACTION HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC4.png" group-title="BOUQUET  PORTUGAL",|PT| TV CINE ACTION HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1719
-#EXTINF:-1 tvg-ID="Cinemundo.pt" tvg-name="|PT| CINEMUNDO HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/c6/Cinemundo.png/revision/latest?cb=20160328182443" group-title="BOUQUET  PORTUGAL",|PT| CINEMUNDO HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1701
-#EXTINF:-1 tvg-ID="TraceToca.pt" tvg-name="|PT| TV SERIES FHD" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-of-countries-3/128/Portugal-512.png" group-title="BOUQUET  PORTUGAL",|PT| TV SERIES FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/1675
-#EXTINF:-1 tvg-ID="AMC.pt" tvg-name="|PT| AMC FHD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_519_2F_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| AMC FHD
-http://hdlocal.de:8080/2630888/426LL13TCU/1709
-#EXTINF:-1 tvg-ID="hollywood.pt" tvg-name="|PT| HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/HWD_HD_logo.svg/1280px-HWD_HD_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| HOLLYWOOD HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1662
-#EXTINF:-1 tvg-ID="fox.pt" tvg-name="|PT| FOX HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_57E_68_53_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| FOX HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1663
-#EXTINF:-1 tvg-ID="FoxMovies.pt" tvg-name="|PT| FOX MOVIES HD" tvg-logo="https://png2.kisspng.com/20180420/alq/kisspng-fox-movies-television-channel-star-movies-logo-vector-fox-5ad9ec2d555a27.2350164115242312133496.png" group-title="BOUQUET  PORTUGAL",|PT| FOX MOVIES HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1729
-#EXTINF:-1 tvg-ID="FOXComedy.pt" tvg-name="|PT| FOX COMEDY HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_51A_67_53_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| FOX COMEDY HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1694
-#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="|PT| FOX LIFE HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_13AB_27_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| FOX LIFE HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1664
-#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="|PT| FOX CRIME HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_13AC_27_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| FOX CRIME HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1665
-#EXTINF:-1 tvg-ID="axn.pt" tvg-name="|PT| AXN HD" tvg-logo="http://x.pure-redirect.com/axnhd.png" group-title="BOUQUET  PORTUGAL",|PT| AXN HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1714
-#EXTINF:-1 tvg-ID="axn.pt" tvg-name="|PT| AXN BLACK HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_191_27_36_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| AXN BLACK HD
-http://hdlocal.de:8080/2630888/426LL13TCU/2140
-#EXTINF:-1 tvg-ID="AXNWhite.pt" tvg-name="|PT| AXN WHITE HD" tvg-logo="http://x.pure-redirect.com/axnwhite.png" group-title="BOUQUET  PORTUGAL",|PT| AXN WHITE HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1713
-#EXTINF:-1 tvg-ID="SyFy.pt" tvg-name="|PT| SYFY HD" tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_CC_66_53_CE40000_0_0_0.png" group-title="BOUQUET  PORTUGAL",|PT| SYFY HD
-http://hdlocal.de:8080/2630888/426LL13TCU/1655
 
 
