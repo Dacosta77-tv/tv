@@ -15,7 +15,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 group-title="Generalista" tvg-id="TVI.pt"  tvg-logo="",TVI
-http://hdlocal.de:8080/2630888/426LL13TCU/265011199
+#KODIPROP:inputstream=inputstream.adaptive
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNCA4OjIyOjM0IFBNJmhhc2hfdmFsdWU9bVQzd1c5TDVBYmd1cXVzTUpYemZ0Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQzOTAyZTAzLWNlM2UtNDZmNC1iNjQxLWQ0YTMzNTAwZjM0Yg==/
 
 #EXTINF:-1 group-title="Generalista" tvg-id="RTPAcores.pt" tvg-logo="",RTP Açores
 #EXTVLCOPT:http-user-agent=Firefox
