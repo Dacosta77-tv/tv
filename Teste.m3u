@@ -1,3 +1,5 @@
+#EXTM3U 
+
 #EXTINF:-1 group-title="Informação" tvg-id="EuronewsPortuguese.fr" tvg-logo="",Euronews
 #KODIPROP:inputstream=inputstream.adaptive
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
