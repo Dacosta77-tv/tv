@@ -4,10 +4,6 @@
 #KODIPROP:inputstream=inputstream.adaptive
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
-#EXTINF:-1 group-title="Generalista" tvg-id="PortoCanal.pt" tvg-logo="",Porto Canal
-#KODIPROP:inputstream=inputstream.adaptive
-https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
-
 #EXTINF:-1 group-title="Generalista" tvg-id="" tvg-logo="",TDM Macau
 #KODIPROP:inputstream=inputstream.adaptive
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
