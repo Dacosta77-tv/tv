@@ -52,5 +52,16 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Generalista" tvg-id="TVIAfrica.pt" tvg-logo="",TVI África
+#KODIPROP:inputstream=inputstream.adaptive
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalista" tvg-id="" tvg-logo="",TDM Macau
+#KODIPROP:inputstream=inputstream.adaptive
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalista" tvg-id="" tvg-logo="",Fama TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
 
 
