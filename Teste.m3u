@@ -3,3 +3,7 @@
 #EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/EURONEWS.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
 https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Darkflix.png",Darkflix
+#KODIPROP:inputstream=inputstream.adaptive
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
