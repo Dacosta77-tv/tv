@@ -1,5 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="",RTP 3
+#EXTINF:-1 group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.github.com/Dacosta77-tv/tv/blob/main/Logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=IE
 http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
