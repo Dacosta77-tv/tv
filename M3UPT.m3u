@@ -2,7 +2,7 @@
 
 # 📺 PORTUGAL
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTP3.pt" tvg-logo="",RTP 3
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP3.pt" tvg-logo="tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
