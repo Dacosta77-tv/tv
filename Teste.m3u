@@ -1,9 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/CNNPORTUGAL.png",CNN Portugal
-#KODIPROP:inputstream=inputstream.adaptive
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDY6NzoyNiBQTSZoYXNoX3ZhbHVlPWE3Zm5TajZ4cURXZFh2UHovb2ljN3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mMmMzZDM2Yy01MGZjLTQxODgtOTQ5NC02N2JjMWI3OTNjMTE=/
-
-#EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
+#EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/CNNBRASIL.png",CNN Brasil
 #KODIPROP:inputstream=inputstream.adaptive
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
