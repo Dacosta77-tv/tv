@@ -3,3 +3,8 @@
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/ARTV.png",ARTV
 #KODIPROP:inputstream=inputstream.adaptive
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RakutenViki.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rakuten_Viki.png",Rakuten Viki
+#KODIPROP:inputstream=inputstream.adaptive
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
