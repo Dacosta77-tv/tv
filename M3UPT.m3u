@@ -29,3 +29,8 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 #EXTINF:-1 group-title="TV" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/CNNBRASIL.png",CNN Brasil
 #KODIPROP:inputstream=inputstream.adaptive
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVCamara.br" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/TVCAMARA.png",TV Câmara
+#KODIPROP:inputstream=inputstream.adaptive
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
