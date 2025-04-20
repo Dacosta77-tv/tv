@@ -46,7 +46,6 @@ https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://live.presstv.ir/hls/presstv.m3u8
 
-
 # 📺 IRÃO
 
 #EXTINF:-1 group-title="TV" tvg-id="PressTV.ir" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/PRESSTV.png",Press TV
