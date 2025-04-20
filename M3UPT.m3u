@@ -34,3 +34,9 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
+# 📺 CHINA
+
+#EXTINF:-1 group-title="TV" tvg-id="CanalMacau.mo" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/TTDMMACAU.png",TDM - Teledifusão de Macau (PT)
+#KODIPROP:inputstream=inputstream.adaptive
+https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+
