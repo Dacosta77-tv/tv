@@ -15,7 +15,3 @@ http://online.tvm.co.mz:1935/live/Channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVMInternacional.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png",TVM Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
-#KODIPROP:inputstream=inputstream.adaptive
-https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
