@@ -1,5 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/BRAZITV",Deutsche Welle Deutsch+
+#EXTINF:-1 group-title="TV" tvg-id="TVCamara.br" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/BRAZITV",TV Câmara
 #KODIPROP:inputstream=inputstream.adaptive
-#https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+https://stream3.camara.gov.br/tv1/manifest.m3u8
