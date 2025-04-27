@@ -42,9 +42,9 @@ https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
 # 📺 EUA
 
-#EXTINF:-1 group-title="TV" tvg-id="PressTV.ir" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/FREESPEECHTV.png",Press TV
+#EXTINF:-1 group-title="TV" tvg-id="FreeSpeechTV.us" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/FREESPEECHTV.png",Press TV
 #KODIPROP:inputstream=inputstream.adaptive
-https://live.presstv.ir/hls/presstv.m3u8
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 
 # 📺 IRÃO
 
