@@ -61,7 +61,7 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 #EXTINF:-1 group-title="TV" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/CNN.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LiveNOWfromFOX.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LiveNOW_from_Fox.webp",Fox Now
+#EXTINF:-1 group-title="TV" tvg-id="LiveNOWfromFOX.us" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/FOXNOW.png",Fox Now
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ABCNewsLive.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News
