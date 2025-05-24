@@ -118,6 +118,11 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
+# 📺 TURQUIA
+
+#EXTINF:-1 group-title="TV" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/TRTWORLD.png",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
 # 📺 VENEZUELA
 
 #EXTINF:-1 group-title="TV" tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/TELESUR.png",teleSUR
