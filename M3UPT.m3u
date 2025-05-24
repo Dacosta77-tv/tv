@@ -68,6 +68,11 @@ https://live.presstv.ir/hls/presstv.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://live.presstv.ir/hls/hispantv.m3u8
 
+# 📺 QATAR
+
+#EXTINF:-1 group-title="TV" tvg-id="AlJazeera.qa" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 # 📺 RÚSSIA
 
 #EXTINF:-1 group-title="TV" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/Dacosta77-tv/tv/main/Logos/RUSSIATODAY.png",RT News
