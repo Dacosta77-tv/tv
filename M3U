@@ -2,23 +2,29 @@
 
 #Portugal
 
-#EXTINF:-1 group-title="PT" tvg-id="RTP1.pt" tvg-logo="https://github.com/Dacosta77-tv/tv/blob/main/logos/RTP1.png",RTP 1
+#EXTINF:-1 group-title="PT" tvg-id="RTP1.pt" tvg-logo="https://raw.github.com/Dacosta77-tv/tv/blob/main/logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="PT" tvg-id="RTP2.pt" tvg-logo="https://github.com/Dacosta77-tv/tv/blob/main/logos/RTP2.png",RTP 2
+#EXTINF:-1 group-title="PT" tvg-id="RTP2.pt" tvg-logo="https://raw.github.com/Dacosta77-tv/tv/blob/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="PT" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+#EXTINF:-1 group-title="PT" tvg-id="SIC.pt" tvg-logo="https://raw.github.com/Dacosta77-tv/tv/blob/main/logos/SIC.png",SIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://sic.pt
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1 group-title="PT" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+#EXTINF:-1 group-title="PT" tvg-id="TVI.pt" tvg-logo="https://raw.github.com/Dacosta77-tv/tv/blob/main/logos/TVI.png",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjI2OjUxIEFNJmhhc2hfdmFsdWU9ZkNGZVBnYTU0TThySlAwdkYyVHFsQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM0NWI2NGE4LWJlMDMtNDVmMC1iN2UxLTU1M2M4ZmJkNjc2Yw==/
+
+#EXTINF:-1 group-title="PT" tvg-id="SICNoticias.pt" tvg-logo="https://raw.github.com/Dacosta77-tv/tv/blob/main/logos/SICNOTICIAS.png",SIC Notícias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTVLCOPT:http-origin=https://sicnoticias.pt
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8
