@@ -93,4 +93,6 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 #DOCS
 #EXTINF:-1 group-title="DOCS" tvg-id="TVCultura.br" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 group-title="DOCS" tvg-id="RealWild.us" tvg-logo="",Real Wild
+https://lds-realwild-vizio.amagi.tv/playlist.m3u8
 
