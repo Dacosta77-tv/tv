@@ -1,114 +1,90 @@
 #EXTM3U
 
-#Portugal
-
+#MIX
 #EXTINF:-1 group-title="MIX" tvg-id="RTP1.pt" tvg-logo="",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="RTP2.pt" tvg-logo="",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="SIC.pt" tvg-logo="",SIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://sic.pt
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="TVI.pt" tvg-logo="",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjI2OjUxIEFNJmhhc2hfdmFsdWU9ZkNGZVBnYTU0TThySlAwdkYyVHFsQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM0NWI2NGE4LWJlMDMtNDVmMC1iN2UxLTU1M2M4ZmJkNjc2Yw==/
-
-#EXTINF:-1 group-title="NEWS" tvg-id="SICNoticias.pt" tvg-logo="",SIC Notícias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTVLCOPT:http-origin=https://sicnoticias.pt
-#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
-https://sicnot.live.impresa.pt/sicnot.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-id="RTPNoticias.pt" tvg-logo="",RTP Notícias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTVLCOPT:http-origin=https://www.rtp.pt
-#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp3
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-id="CNNPortugal.pt" tvg-logo="",CNN Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjI2OjUxIEFNJmhhc2hfdmFsdWU9THJ4dU9LTFJtVG9xN1o3VXJuNkFzZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZhNTVjNGZmLTQ2ZjAtNDRkNS04ZDlkLTdjNjBiODY4OTU2Mg==/
-
-#EXTINF:-1 group-title="NEWS" tvg-id="EuronewsPortuguese.fr" tvg-logo="",Euronews PT
-#https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
-#https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiYTczODFmMGMtYjk4Ni00ODc1LWIzMDYtN2E3MTdlZDgxZTQxIiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ%3D%3D/26035/euronews-pt.m3u8
-https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/aa7d84c5-ed1b-4706-aa89-11c525faf07d/5.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="RTPMemoria.pt" tvg-logo="",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpmemoria
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpacores
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtmadeira
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="RTPAfrica.pt" tvg-logo="",RTP África
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpafrica
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="RTPInternacional.pt" tvg-logo="",RTP Mundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpinternacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="TVIInternacional.pt" tvg-logo="",TVI Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjI2OjUyIEFNJmhhc2hfdmFsdWU9VFNRcEZ2dEc5Mnl5blZVMGZZTFdvdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTYxYjE0ZTgzLWQxZDktNDEyNi04YTA2LTM3NTcwN2YzNjI4YQ==/
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="VPlusTVI.pt" tvg-logo="",V+ TVI
-https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="TVIFiccao.pt" tvg-logo="",TVI Ficção
-https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-
-#EXTINF:-1 group-title="REALITY" tvg-id="TVIReality.pt" tvg-logo="",TVI Reality
-https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-
 #EXTINF:-1 group-title="MIX" tvg-id="SICReplay.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Replay.png",SIC Replay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://sic.pt
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="PortoCanal.pt" tvg-logo="",Porto Canal
+#EXTINF:-1 group-title="MIX" tvg-id="PortoCanal.pt" tvg-logo="",Porto Canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
-#Brasil
-
+#NEWS
+#EXTINF:-1 group-title="NEWS" tvg-id="SICNoticias.pt" tvg-logo="",SIC Notícias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTVLCOPT:http-origin=https://sicnoticias.pt
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="RTPNoticias.pt" tvg-logo="",RTP Notícias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTVLCOPT:http-origin=https://www.rtp.pt
+#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp3
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="CNNPortugal.pt" tvg-logo="",CNN Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjI2OjUxIEFNJmhhc2hfdmFsdWU9THJ4dU9LTFJtVG9xN1o3VXJuNkFzZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZhNTVjNGZmLTQ2ZjAtNDRkNS04ZDlkLTdjNjBiODY4OTU2Mg==/
+#EXTINF:-1 group-title="NEWS" tvg-id="EuronewsPortuguese.fr" tvg-logo="",Euronews PT
+#https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+#https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiYTczODFmMGMtYjk4Ni00ODc1LWIzMDYtN2E3MTdlZDgxZTQxIiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ%3D%3D/26035/euronews-pt.m3u8
+https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/aa7d84c5-ed1b-4706-aa89-11c525faf07d/5.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="CNNBrasil.br" tvg-logo="",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 group-title="DOCS" tvg-id="TVCultura.br" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-#Angola
-
 #EXTINF:-1 group-title="NEWS" tvg-id="TVZimbo.ao" tvg-logo="",TV Zimbo
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
-#EUA
-
+#MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-id="VPlusTVI.pt" tvg-logo="",V+ TVI
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-id="TVIFiccao.pt" tvg-logo="",TVI Ficção
+https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="MyTimeMovieNetwork.br" tvg-logo="",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#DOCS
+#EXTINF:-1 group-title="DOCS" tvg-id="TVCultura.br" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
