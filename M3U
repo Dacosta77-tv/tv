@@ -103,4 +103,6 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 group-title="DOCS" tvg-id="RealWild.us" tvg-logo="",Real Wild
 https://lds-realwild-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOCS" tvg-id="FreeSpeechTV.us" tvg-logo="",Free Speech TV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 
