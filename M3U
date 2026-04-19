@@ -87,6 +87,8 @@ https://live.presstv.ir/hls/presstv.m3u8
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="CGTN.cn" tvg-logo="",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="AlJazeera.qa" tvg-logo="",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #MOVIES
 #EXTINF:-1 group-title="MOVIES" tvg-id="VPlusTVI.pt" tvg-logo="",V+ TVI
