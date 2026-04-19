@@ -68,13 +68,13 @@ https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpafrica
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTPInternacional.pt" tvg-logo="",RTP Mundo
+#EXTINF:-1 group-title="MIX" tvg-id="RTPInternacional.pt" tvg-logo="",RTP Mundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpinternacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="",TVI Internacional
+#EXTINF:-1 group-title="MIX" tvg-id="TVIInternacional.pt" tvg-logo="",TVI Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjI2OjUyIEFNJmhhc2hfdmFsdWU9VFNRcEZ2dEc5Mnl5blZVMGZZTFdvdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTYxYjE0ZTgzLWQxZDktNDEyNi04YTA2LTM3NTcwN2YzNjI4YQ==/
 
 #Brasil
