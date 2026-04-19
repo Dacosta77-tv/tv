@@ -89,6 +89,8 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playli
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="AlJazeera.qa" tvg-logo="",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="France24English.fr" tvg-logo="",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
 #MOVIES
 #EXTINF:-1 group-title="MOVIES" tvg-id="VPlusTVI.pt" tvg-logo="",V+ TVI
