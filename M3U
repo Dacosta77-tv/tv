@@ -107,3 +107,8 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="TVZimbo.ao" tvg-logo="",TV Zimbo
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+
+#EUA
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="MyTimeMovieNetwork.br" tvg-logo="",MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
