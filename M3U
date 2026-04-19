@@ -28,3 +28,9 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
+
+#EXTINF:-1 group-title="PT" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.github.com/Dacosta77-tv/tv/blob/main/logos/RTPNOTICIAS.png",RTP Notícias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTVLCOPT:http-origin=https://www.rtp.pt
+#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp3
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
