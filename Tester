@@ -1,3 +1,7 @@
-#EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
-https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTVLCOPT:http-origin=https://www.rtp.pt
+#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpmemoria
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+
 
