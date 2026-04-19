@@ -102,3 +102,8 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 group-title="DOCS" tvg-id="TVCultura.br" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#Angola
+
+#EXTINF:-1 group-title="NEWS" tvg-id="TVZimbo.ao" tvg-logo="",TV Zimbo
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
