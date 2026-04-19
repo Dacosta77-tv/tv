@@ -19,3 +19,6 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTVLCOPT:http-origin=https://sic.pt
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 group-title="PT" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjI2OjUxIEFNJmhhc2hfdmFsdWU9ZkNGZVBnYTU0TThySlAwdkYyVHFsQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM0NWI2NGE4LWJlMDMtNDVmMC1iN2UxLTU1M2M4ZmJkNjc2Yw==/
