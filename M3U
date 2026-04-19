@@ -38,3 +38,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="CNNPortugal.pt" tvg-logo="",CNN Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjI2OjUxIEFNJmhhc2hfdmFsdWU9THJ4dU9LTFJtVG9xN1o3VXJuNkFzZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZhNTVjNGZmLTQ2ZjAtNDRkNS04ZDlkLTdjNjBiODY4OTU2Mg==/
+
+#Brasil
+
+#EXTINF:-1 group-title="NEWS" tvg-id="CNNBrasil.br" tvg-logo="",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
