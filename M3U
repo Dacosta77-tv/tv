@@ -1,11 +1,13 @@
 #EXTM3U
 
 #MIX
-#EXTINF:-1 group-title="MIX" tvg-id="RTP1.pt" tvg-logo="",RTP 1
+
+#EXTINF:-1 group-title="MIX" tvg-id="RTP1.pt" tvg-logo="https://raw.github.com/Dacosta77-tv/tv/blob/main/Logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="MIX" tvg-id="RTP2.pt" tvg-logo="",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
